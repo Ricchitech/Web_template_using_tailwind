@@ -3,6 +3,6 @@ Web_template_using_tailwind_css
 
 
 
-#initially install tailwind npm package
+# initially install tailwind npm package
 
-###npm i tailwindcss
+### npm i tailwindcss
